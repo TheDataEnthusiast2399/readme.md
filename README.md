@@ -1,5 +1,5 @@
 # readme.md
-This is my Introduction to the folks of programming
+Hello World! Namaste I am Prajwal Shetty.
 # 💫 About Me:
 🔭 I'm an aspiring Data engineer and a Student of Computer Science.<br>👯 Backbencher with decent grades and a Product of a mother's love.<br>🤝 Looking forward to connecting with the smart peps.<br>🌱 One day at a time.<br>💬 Trying to bring the thoughts to life.<br>⚡ Fun fact - I am Batman with none of the cool gadgets.
 
