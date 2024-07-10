@@ -1,7 +1,9 @@
 # readme.md
-Hello World! Namaste I am Prajwal Shetty.
+Hello World! Namaste I am Prajwal Shetty. 
+Welcoming you all to my Tech journal,
+Connect with me and coffee is on me; I promise :-)
 # 💫 About Me:
-🔭 I'm an aspiring Data engineer and a Student of Computer Science.<br>👯 Backbencher with decent grades and a Product of a mother's love.<br>🤝 Looking forward to connecting with the smart peps.<br>🌱 One day at a time.<br>💬 Trying to bring the thoughts to life.<br>⚡ Fun fact - I am Batman with none of the cool gadgets.
+🔭 I'm a Data enthusiast and a student of Computer Science.<br>👯 Backbencher with decent grades and a Product of a mother's love.<br>🤝 Looking forward to connecting with the peps who can vibe and teach me amazing things.<br>🌱 One day at a time.<br>💬 Trying to bring the thoughts to life.<br>⚡ Fun fact - I am Batman with no cool gadgets.
 
 
 ## 🌐 Socials:
