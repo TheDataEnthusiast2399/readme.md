@@ -1,4 +1,4 @@
-# readme.md
+
 Hello World! Namaste I am Prajwal Shetty. 
 Welcoming you all to my Tech journal,
 Connect with me and coffee is on me; I promise :-)
